@@ -1,0 +1,3 @@
+method1:fgvc
+method2:ours
+method3:sttn
