@@ -1,4 +1,0 @@
-dstt: m1
-ffm: m2
-fgvc: m3
-ours: m4
